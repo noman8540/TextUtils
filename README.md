@@ -9,6 +9,10 @@ What Can We do from textutils ?
 3)New Line Remove
 4)Extra Spaces Remover
 5)Numbers Remover
+
+
+
+
 Requirments
 python3
 django
